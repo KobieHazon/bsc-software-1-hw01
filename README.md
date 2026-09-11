@@ -40,7 +40,7 @@ The regression tests cover valid triples, invalid triples, negative input, missi
 ## Repository Structure
 
 - `assignment/MISSING_HANDOUT.md`: provenance note explaining that the exact matching handout was not recovered
-- `solution/written-answers.pdf`: my written answers with PDF metadata reduced to the author's name
+- `solution/written-answers.pdf`: my written answers
 - `src/Assignment1.java`: my recovered Java implementation, maintained for current toolchains
 - `tests/run_cli_tests.py`: maintained command-line regression tests
 
